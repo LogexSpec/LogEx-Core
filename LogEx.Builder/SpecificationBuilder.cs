@@ -1,9 +1,10 @@
 using System;
-using LogEx.Core.Builder.Clauses;
+using LogEx.Builder.Clauses;
+using LogEx.Core;
 using LogEx.Core.Explanations;
 using LogEx.Core.Result;
 
-namespace LogEx.Core.Builder
+namespace LogEx.Builder
 {
     public class SpecificationBuilder<TTarget>
     {

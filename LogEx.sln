@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogEx.Sample", "LogEx.Sampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogEx.Tests", "LogEx.Tests\LogEx.Tests.csproj", "{2000D3A1-A32D-44AE-B102-90D39C5827DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogEx.Builder", "LogEx.Builder\LogEx.Builder.csproj", "{D179DF82-E2A5-4CCB-ABCE-6296CF76CD28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2000D3A1-A32D-44AE-B102-90D39C5827DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2000D3A1-A32D-44AE-B102-90D39C5827DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2000D3A1-A32D-44AE-B102-90D39C5827DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D179DF82-E2A5-4CCB-ABCE-6296CF76CD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D179DF82-E2A5-4CCB-ABCE-6296CF76CD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D179DF82-E2A5-4CCB-ABCE-6296CF76CD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D179DF82-E2A5-4CCB-ABCE-6296CF76CD28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

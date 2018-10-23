@@ -5,11 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Properties\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\LogEx.Builder\LogEx.Builder.csproj" />
     <ProjectReference Include="..\LogEx.Core\LogEx.Core.csproj" />
   </ItemGroup>
 

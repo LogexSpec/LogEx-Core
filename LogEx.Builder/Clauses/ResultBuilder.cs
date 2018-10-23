@@ -1,6 +1,7 @@
+using LogEx.Core;
 using LogEx.Core.Result;
 
-namespace LogEx.Core.Builder.Clauses
+namespace LogEx.Builder.Clauses
 {
     public class ResultBuilder<TRootProduct> 
     {
