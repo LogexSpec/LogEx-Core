@@ -1,3 +1,4 @@
+using LogEx.Builder;
 using LogEx.Core;
 using LogEx.Sample;
 

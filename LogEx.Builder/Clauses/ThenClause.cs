@@ -1,4 +1,4 @@
-namespace LogEx.Core.Builder.Clauses
+namespace LogEx.Builder.Clauses
 {
     public class ThenClause
     {

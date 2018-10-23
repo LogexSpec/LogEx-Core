@@ -1,6 +1,6 @@
-using LogEx.Core.Builder;
+using LogEx.Builder;
 
-namespace LogEx.Core
+namespace LogEx.Builder
 {
     public abstract class SpecificationSet<TTarget>
     {
